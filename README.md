@@ -1,5 +1,7 @@
 # 📝 Simple Sentiment Text Analysis: Análise de Sentimentos em Textos 📊
 
+![CAPAS - PROJETOS (8)](https://github.com/user-attachments/assets/9e7cdc68-44ba-465a-9d22-248b753ffd14)
+
 ## 📋 Sumário
 - [📖 Descrição](#-descrição)
 - [🎯 Objetivo](#-objetivo)
@@ -25,12 +27,11 @@ Para configurar o projeto, siga as instruções abaixo:
    git clone https://github.com/Edu-png/Simple-Sentiment-Text-Analysis-in-Python.git
    
 2. Navegue até o diretório do projeto:
-bash
-   ```
-  cd Simple-Sentiment-Text-Analysis-in-Python
+   ```bash
+     cd Simple-Sentiment-Text-Analysis-in-Python
 3. Instale as dependências necessárias:
-    ```
-   pip install -r requirements.txt
+    ```bash
+      pip install -r requirements.txt
    
 ## 📌 Uso
 - Siga as orientações para preparar os dados de entrada.
@@ -38,12 +39,12 @@ bash
 
 ## 📁 Estrutura do Projeto
     ```
-   Simple-Sentiment-Text-Analysis/
-   │
-   ├── data/                  # Dados utilizados
-   ├── analysis/              # Análise de sentimentos
-   ├── results/               # Resultados da análise
-   └── README.md              # Documentação do projeto
+      Simple-Sentiment-Text-Analysis/
+      │
+      ├── data/                  # Dados utilizados
+      ├── analysis/              # Análise de sentimentos
+      ├── results/               # Resultados da análise
+      └── README.md              # Documentação do projeto
 
 ## 🔄 Pipeline
 1. Coleta de Dados: Coleta de textos a serem analisados, que podem incluir comentários de redes sociais, avaliações de produtos, entre outros.
@@ -60,6 +61,7 @@ bash
 - O projeto "Simple Sentiment Text Analysis" proporciona uma visão clara das emoções expressas em textos. É uma ferramenta útil para empresas e indivíduos que desejam compreender o feedback do público e as reações emocionais a conteúdos diversos.
 
 ## 📞 Contato
-LinkedIn: Eduardo Coqueiro
-Site: Eduardo Coqueiro
-Kaggle: Eduardo Coqueiro
+- **LinkedIn:** [Eduardo Coqueiro](https://www.linkedin.com/in/eduardocoqueiro/)
+- **Site:** [Eduardo Coqueiro](https://dataguy.my.canva.site/eduardo-coqueiro)
+- **Kaggle:** [Eduardo Coqueiro](https://www.kaggle.com/eduardocoqueiro)
+
